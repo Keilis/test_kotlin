@@ -1,0 +1,1 @@
+class Book(val name: String, var year: Int? = null, var cost: Int? = null)
